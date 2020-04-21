@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="HBK_Atmospheric_GasesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DataPublish">
+          <Key>
+            <PropertyRef Name="DataPublishId" />
+          </Key>
+          <Property Name="DataPublishId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SensorId" Type="int" />
+          <Property Name="DataId" Type="int" />
+          <Property Name="DataValue" Type="nvarchar" MaxLength="50" />
+          <Property Name="PublishTime" Type="datetime" />
+        </EntityType>
+        <EntityType Name="DataType">
+          <Key>
+            <PropertyRef Name="DataId" />
+          </Key>
+          <Property Name="DataId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DataType" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Sensors">
+          <Key>
+            <PropertyRef Name="SensorId" />
+          </Key>
+          <Property Name="SensorId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SensorName" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_DataPublish_DataId">
+          <End Role="DataType" Type="Self.DataType" Multiplicity="0..1" />
+          <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DataType">
+              <PropertyRef Name="DataId" />
+            </Principal>
+            <Dependent Role="DataPublish">
+              <PropertyRef Name="DataId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_DataPublish_SensorId">
+          <End Role="Sensors" Type="Self.Sensors" Multiplicity="0..1" />
+          <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sensors">
+              <PropertyRef Name="SensorId" />
+            </Principal>
+            <Dependent Role="DataPublish">
+              <PropertyRef Name="SensorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HBK_Atmospheric_GasesModelStoreContainer">
+          <EntitySet Name="DataPublish" EntityType="Self.DataPublish" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DataType" EntityType="Self.DataType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sensors" EntityType="Self.Sensors" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_DataPublish_DataId" Association="Self.FK_DataPublish_DataId">
+            <End Role="DataType" EntitySet="DataType" />
+            <End Role="DataPublish" EntitySet="DataPublish" />
+          </AssociationSet>
+          <AssociationSet Name="FK_DataPublish_SensorId" Association="Self.FK_DataPublish_SensorId">
+            <End Role="Sensors" EntitySet="Sensors" />
+            <End Role="DataPublish" EntitySet="DataPublish" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HBK_Atmospheric_GasesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DataPublish">
+          <Key>
+            <PropertyRef Name="DataPublishId" />
+          </Key>
+          <Property Name="DataPublishId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SensorId" Type="Int32" />
+          <Property Name="DataId" Type="Int32" />
+          <Property Name="DataValue" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="PublishTime" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="DataType" Relationship="Self.FK_DataPublish_DataId" FromRole="DataPublish" ToRole="DataType" />
+          <NavigationProperty Name="Sensor" Relationship="Self.FK_DataPublish_SensorId" FromRole="DataPublish" ToRole="Sensors" />
+        </EntityType>
+        <EntityType Name="DataType">
+          <Key>
+            <PropertyRef Name="DataId" />
+          </Key>
+          <Property Name="DataId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DataType1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="DataPublishes" Relationship="Self.FK_DataPublish_DataId" FromRole="DataType" ToRole="DataPublish" />
+        </EntityType>
+        <EntityType Name="Sensor">
+          <Key>
+            <PropertyRef Name="SensorId" />
+          </Key>
+          <Property Name="SensorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SensorName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="DataPublishes" Relationship="Self.FK_DataPublish_SensorId" FromRole="Sensors" ToRole="DataPublish" />
+        </EntityType>
+        <Association Name="FK_DataPublish_DataId">
+          <End Role="DataType" Type="Self.DataType" Multiplicity="0..1" />
+          <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DataType">
+              <PropertyRef Name="DataId" />
+            </Principal>
+            <Dependent Role="DataPublish">
+              <PropertyRef Name="DataId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_DataPublish_SensorId">
+          <End Role="Sensors" Type="Self.Sensor" Multiplicity="0..1" />
+          <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sensors">
+              <PropertyRef Name="SensorId" />
+            </Principal>
+            <Dependent Role="DataPublish">
+              <PropertyRef Name="SensorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HBK_Atmospheric_GasesEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DataPublishes" EntityType="Self.DataPublish" />
+          <EntitySet Name="DataTypes" EntityType="Self.DataType" />
+          <EntitySet Name="Sensors" EntityType="Self.Sensor" />
+          <AssociationSet Name="FK_DataPublish_DataId" Association="Self.FK_DataPublish_DataId">
+            <End Role="DataType" EntitySet="DataTypes" />
+            <End Role="DataPublish" EntitySet="DataPublishes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_DataPublish_SensorId" Association="Self.FK_DataPublish_SensorId">
+            <End Role="Sensors" EntitySet="Sensors" />
+            <End Role="DataPublish" EntitySet="DataPublishes" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="HBK_Atmospheric_GasesModelStoreContainer" CdmEntityContainer="HBK_Atmospheric_GasesEntities">
+          <EntitySetMapping Name="DataPublishes">
+            <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.DataPublish">
+              <MappingFragment StoreEntitySet="DataPublish">
+                <ScalarProperty Name="DataPublishId" ColumnName="DataPublishId" />
+                <ScalarProperty Name="SensorId" ColumnName="SensorId" />
+                <ScalarProperty Name="DataId" ColumnName="DataId" />
+                <ScalarProperty Name="DataValue" ColumnName="DataValue" />
+                <ScalarProperty Name="PublishTime" ColumnName="PublishTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DataTypes">
+            <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.DataType">
+              <MappingFragment StoreEntitySet="DataType">
+                <ScalarProperty Name="DataId" ColumnName="DataId" />
+                <ScalarProperty Name="DataType1" ColumnName="DataType" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sensors">
+            <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.Sensor">
+              <MappingFragment StoreEntitySet="Sensors">
+                <ScalarProperty Name="SensorId" ColumnName="SensorId" />
+                <ScalarProperty Name="SensorName" ColumnName="SensorName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

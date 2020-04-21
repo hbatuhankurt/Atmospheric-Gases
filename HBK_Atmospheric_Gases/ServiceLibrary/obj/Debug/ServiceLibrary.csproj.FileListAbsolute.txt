@@ -1,0 +1,56 @@
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\BusinessLayer.dll.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

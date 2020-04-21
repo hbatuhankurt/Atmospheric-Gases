@@ -1,0 +1,128 @@
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.HistoryForm.resources
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.HistoryForm.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.HistoryForm.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\ServiceLibrary.dll.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.WinForms.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\LiveCharts.Wpf.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\bin\Debug\EntityFramework.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.HistoryForm.resources
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\PresentationLayer\obj\Debug\PresentationLayer.pdb

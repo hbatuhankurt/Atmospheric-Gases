@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HBK_Atmospheric_GasesModelStoreContainer" CdmEntityContainer="HBK_Atmospheric_GasesEntities">
+    <EntitySetMapping Name="DataPublishes">
+      <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.DataPublish">
+        <MappingFragment StoreEntitySet="DataPublish">
+          <ScalarProperty Name="DataPublishId" ColumnName="DataPublishId" />
+          <ScalarProperty Name="SensorId" ColumnName="SensorId" />
+          <ScalarProperty Name="DataId" ColumnName="DataId" />
+          <ScalarProperty Name="DataValue" ColumnName="DataValue" />
+          <ScalarProperty Name="PublishTime" ColumnName="PublishTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DataTypes">
+      <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.DataType">
+        <MappingFragment StoreEntitySet="DataType">
+          <ScalarProperty Name="DataId" ColumnName="DataId" />
+          <ScalarProperty Name="DataType1" ColumnName="DataType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sensors">
+      <EntityTypeMapping TypeName="HBK_Atmospheric_GasesModel.Sensor">
+        <MappingFragment StoreEntitySet="Sensors">
+          <ScalarProperty Name="SensorId" ColumnName="SensorId" />
+          <ScalarProperty Name="SensorName" ColumnName="SensorName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,48 @@
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Hasan Batuhan Kurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hbatuhankurt\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Öğretim\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Local Disk D\Desktop\Bilgisayar Programcılığı\2.Sınıf\1.Dönem\1.Dönem Final Projesi\Final\HBK_Atmospheric_Gases\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HBK_Atmospheric_GasesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DataPublish">
+    <Key>
+      <PropertyRef Name="DataPublishId" />
+    </Key>
+    <Property Name="DataPublishId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SensorId" Type="int" />
+    <Property Name="DataId" Type="int" />
+    <Property Name="DataValue" Type="nvarchar" MaxLength="50" />
+    <Property Name="PublishTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DataType">
+    <Key>
+      <PropertyRef Name="DataId" />
+    </Key>
+    <Property Name="DataId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DataType" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Sensors">
+    <Key>
+      <PropertyRef Name="SensorId" />
+    </Key>
+    <Property Name="SensorId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SensorName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_DataPublish_DataId">
+    <End Role="DataType" Type="Self.DataType" Multiplicity="0..1" />
+    <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DataType">
+        <PropertyRef Name="DataId" />
+      </Principal>
+      <Dependent Role="DataPublish">
+        <PropertyRef Name="DataId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DataPublish_SensorId">
+    <End Role="Sensors" Type="Self.Sensors" Multiplicity="0..1" />
+    <End Role="DataPublish" Type="Self.DataPublish" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sensors">
+        <PropertyRef Name="SensorId" />
+      </Principal>
+      <Dependent Role="DataPublish">
+        <PropertyRef Name="SensorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HBK_Atmospheric_GasesModelStoreContainer">
+    <EntitySet Name="DataPublish" EntityType="Self.DataPublish" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DataType" EntityType="Self.DataType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sensors" EntityType="Self.Sensors" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DataPublish_DataId" Association="Self.FK_DataPublish_DataId">
+      <End Role="DataType" EntitySet="DataType" />
+      <End Role="DataPublish" EntitySet="DataPublish" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DataPublish_SensorId" Association="Self.FK_DataPublish_SensorId">
+      <End Role="Sensors" EntitySet="Sensors" />
+      <End Role="DataPublish" EntitySet="DataPublish" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
